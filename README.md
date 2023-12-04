@@ -1,6 +1,6 @@
 # tailwindcss
-Rapid Development
-Highly Customizable
-Improved Maintainability
-Responsive Design
-Active Community and Ecosystem
+1)Rapid Development
+2)ighly Customizable
+3)Improved Maintainability
+4)Responsive Design
+5)Active Community and Ecosystem
