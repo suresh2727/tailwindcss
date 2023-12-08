@@ -4,3 +4,4 @@
 3)Improved Maintainability
 4)Responsive Design
 5)Active Community and Ecosystem
+6) It used as classes 
